@@ -7,6 +7,12 @@ Inspired by the official Next.js dashboard course and extended with additional r
 
 ---
 
+## 🌐 Live Demo
+
+[View Live Demo](https://nextjs-dashboard-ruby-five-22.vercel.app/dashboard)
+
+---
+
 ## ✨ Features
 
 - ⚡ Built with the Next.js App Router
@@ -43,7 +49,7 @@ Add screenshots or a demo GIF here.
 Example:
 
 ```md
-![Dashboard Preview](/public/dashboard-preview.png)
+![Dashboard Preview](public/dashboard-preview.png)
 ```
 
 ---
