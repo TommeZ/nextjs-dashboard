@@ -49,7 +49,7 @@ Add screenshots or a demo GIF here.
 Example:
 
 ```md
-![Dashboard Preview](public/dashboard-preview.png)
+![Dashboard Preview](./public/dashboard-preview.png)
 ```
 
 ---
